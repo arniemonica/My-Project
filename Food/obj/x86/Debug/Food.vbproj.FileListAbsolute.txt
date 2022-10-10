@@ -1,0 +1,85 @@
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\bin\Debug\Food.exe
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\bin\Debug\Food.pdb
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\bin\Debug\Food.xml
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.vbproj.GenerateResource.Cache
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.exe
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.xml
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.pdb
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\bin\Debug\Food.exe.config
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\genden0902\AppData\Local\Temporary Projects\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.exe.config
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.exe
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.pdb
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.xml
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.vbproj.GenerateResource.Cache
+C:\Users\genden0902\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form4.resources
+C:\Users\genden0902\Downloads\Arnie\Windows\Delrosario\Food\Food\bin\Debug\Food.exe.config
+C:\Users\genden0902\Downloads\Arnie\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\genden0902\Downloads\Arnie\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\genden0902\Downloads\Arnie\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\bin\Debug\Food.exe.config
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\bin\Debug\Food.exe
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\bin\Debug\Food.pdb
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\bin\Debug\Food.xml
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.Form4.resources
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\genden0902\Downloads\Arnie\EtoNaTalaga\Windows\Delrosario\Food\Food\obj\x86\Debug\Food.vbproj.GenerateResource.Cache
+C:\Users\PC-19-STUDENT\Desktop\Food\Food\bin\Debug\Food.exe.config
+C:\Users\PC-19-STUDENT\Desktop\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\PC-19-STUDENT\Desktop\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\PC-19-STUDENT\Desktop\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\PC-19-STUDENT\Documents\Food\Food\bin\Debug\Food.exe.config
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\PC-19-STUDENT\Documents\Food\Food\bin\Debug\Food.exe
+C:\Users\PC-19-STUDENT\Documents\Food\Food\bin\Debug\Food.pdb
+C:\Users\PC-19-STUDENT\Documents\Food\Food\bin\Debug\Food.xml
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.Form4.resources
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\PC-19-STUDENT\Documents\Food\Food\obj\x86\Debug\Food.vbproj.GenerateResource.Cache
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.exe.config
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.pdb
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.exe
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.pdb
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\bin\Debug\Food.xml
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Form4.resources
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\PC-19-STUDENT\Documents\Visual Studio 2010\Projects\Food\Food\obj\x86\Debug\Food.vbproj.GenerateResource.Cache
+C:\Users\genden0902\Documents\Food\Food\bin\Debug\Food.exe.config
+C:\Users\genden0902\Documents\Food\Food\bin\Debug\Food.exe
+C:\Users\genden0902\Documents\Food\Food\bin\Debug\Food.pdb
+C:\Users\genden0902\Documents\Food\Food\bin\Debug\Food.xml
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.Form1.resources
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.Form2.resources
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.Form3.resources
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.Form4.resources
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.Resources.resources
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.vbproj.GenerateResource.cache
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.exe
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.xml
+C:\Users\genden0902\Documents\Food\Food\obj\x86\Debug\Food.pdb
